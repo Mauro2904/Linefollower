@@ -7,7 +7,7 @@
 |         2| 18650 LiIon Batterij     | Batterij        | nieuw           |              |   2   |         |
 |         3|  DRV8835 Dual Motor Driver Carrier  |    H-brug     |   nieuw         |              |  1    |         |
 |         4|    QTR-8A QRE1113GR     |    lichtsensor     | nieuw        |         |    1     |         |
-|         5|    HC-05 Bluetooth module met adapter     | bluetooth module        |    recup     |         |     2    |         |
+|         5|    HC-05 Bluetooth module met adapter     | bluetooth module        |    recup     |         |     1    |     0    |
 |         6|         |         |         |         |         |         |
 |         7|         |         |         |         |         |         |
 |         8|         |         |         |         |         |         |
